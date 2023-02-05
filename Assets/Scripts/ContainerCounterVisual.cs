@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CintainerCounterVisual : MonoBehaviour
+public class ContainerCounterVisual : MonoBehaviour
 {
     private const string OPEN_CLOSE = "OpenClose";
     [SerializeField] private ContainerCounter containerCounter;
