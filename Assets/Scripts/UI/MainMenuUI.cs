@@ -23,5 +23,7 @@ public class MainMenuUI : MonoBehaviour
             // onClick
             Application.Quit();
         });
+
+        Time.timeScale = 1f;
     }
 }
